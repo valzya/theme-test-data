@@ -3867,7 +3867,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1720</wp:post_id>
-		<wp:post_date><![CDATA[2018-10-20 19:57:357]]></wp:post_date>
+		<wp:post_date><![CDATA[2018-10-20 19:57:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-21 02:57:35]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
