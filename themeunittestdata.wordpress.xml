@@ -2152,7 +2152,7 @@
 <!-- /wp:media-text -->
 
 <!-- wp:video {"id":1690} -->
-<figure class="wp-block-video"><video src="https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov"></video></figure>
+<figure class="wp-block-video"><video controls src="https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov"></video></figure>
 <!-- /wp:video -->]]></content:encoded>
 	<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 	<wp:post_id>21</wp:post_id>
